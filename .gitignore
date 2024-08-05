@@ -1,6 +1,7 @@
 
 #custom files
 /data
+/archive
 
 #Mac cache files
 .DS_Store
